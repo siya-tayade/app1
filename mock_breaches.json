@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Canva",
+        "date": "2019-05-24",
+        "data_compromised": ["Email addresses", "Passwords", "Usernames", "Names"],
+        "description": "In May 2019, the graphic design tool Canva suffered a data breach that impacted 137 million subscribers.",
+        "emails": ["test@example.com", "admin@company.com", "user@gmail.com", "jane.doe@yahoo.com"]
+    },
+    {
+        "name": "LinkedIn",
+        "date": "2012-05-01",
+        "data_compromised": ["Email addresses", "Passwords"],
+        "description": "In 2012, LinkedIn was breached, resulting in the theft of 164 million email addresses and passwords.",
+        "emails": ["admin@company.com", "john.smith@outlook.com", "user@gmail.com", "ceo@startup.io"]
+    },
+    {
+        "name": "Adobe",
+        "date": "2013-10-01",
+        "data_compromised": ["Email addresses", "Passwords", "Password hints", "Usernames"],
+        "description": "In October 2013, Adobe announced a breach impacting 153 million users.",
+        "emails": ["designer@studio.com", "test2@example.com", "jane.doe@yahoo.com"]
+    },
+    {
+        "name": "MyFitnessPal",
+        "date": "2018-02-01",
+        "data_compromised": ["Email addresses", "IP addresses", "Passwords", "Usernames"],
+        "description": "In February 2018, Under Armour's MyFitnessPal suffered a breach that impacted 144 million unique email addresses.",
+        "emails": ["fitness123@gmail.com", "user@gmail.com"]
+    }
+]
